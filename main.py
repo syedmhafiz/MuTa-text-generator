@@ -34,4 +34,4 @@ def gene(txt):
 if __name__ == "__main__":
     q = input("Enter the text(5 - 30 characters max):")
     w = gene(q)
-    print(w)
+    print("The murad takla version of your text is: ", w)
